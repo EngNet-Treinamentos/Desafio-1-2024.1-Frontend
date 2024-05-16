@@ -21,7 +21,7 @@ Você deve realizar um [fork](https://docs.github.com/en/get-started/quickstart/
 - A utilização de javascript é permitida, mas é opcional.
 - O código do projeto deve ser organizado, indentado e legível. Tão importante quanto um programa funcional é um código fonte fácil de modificar e entender.
 - Um exemplo:
-    (./assets/curriculo.pdf)
+    [print](./assets/curriculo.pdf)
 
 ## Desafio extra
 
