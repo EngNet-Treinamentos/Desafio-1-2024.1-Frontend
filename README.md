@@ -20,7 +20,7 @@ Você deve realizar um [fork](https://docs.github.com/en/get-started/quickstart/
 - O candidato deve utilizar apenas HTML e CSS para solucionar o desafio, sendo proibido utilizar bibliotecas de CSS, como Bootstrap, Tailwind, entre outras.
 - A utilização de javascript é permitida, mas é opcional.
 - O código do projeto deve ser organizado, indentado e legível. Tão importante quanto um programa funcional é um código fonte fácil de modificar e entender.
-- Um exemplo:
+- Um exemplo de curriculo:
     [curriculo](./assets/curriculo.pdf)
 
 ## Desafio extra
@@ -28,8 +28,20 @@ Você deve realizar um [fork](https://docs.github.com/en/get-started/quickstart/
 - Caso tenha interesse, faça um currículo mais bonito que o exemplo dado.
   - Você poderá usar qualquer tag ou display presente no html e css, mas ainda não poderá utilizar bibliotecas de CSS.
 
+## Links
+
+- Link do repositório com todos os comandos de git e github:
+
+    https://gist.github.com/leocomelli/2545add34e4fec21ec16
+
+- Link do w3school:
+
+    https://www.w3schools.com/js/default.asp
+
+
 ## Entrega
 
 - A entrega do desafio deve ser realizada através de uma Release no GitHub.
   - Crie a release no seu repositório pessoal e envie o zip pelo google classroom.
 - O candidato não deve excluir o repositório e nem a release após a entrega, pois a utilização do GitHub será avaliada.
+
