@@ -20,7 +20,8 @@ Você deve realizar um [fork](https://docs.github.com/en/get-started/quickstart/
 - O candidato deve utilizar apenas HTML e CSS para solucionar o desafio, sendo proibido utilizar bibliotecas de CSS, como Bootstrap, Tailwind, entre outras.
 - A utilização de javascript é permitida, mas é opcional.
 - O código do projeto deve ser organizado, indentado e legível. Tão importante quanto um programa funcional é um código fonte fácil de modificar e entender.
-- Um exemplo está presente nesse [print](./assets/print.png), a sua entrega deverá ter uma qualidade parecida ou superior.
+- Um exemplo:
+    (./assets/curriculo.pdf)
 
 ## Desafio extra
 
